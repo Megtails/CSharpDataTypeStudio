@@ -1,0 +1,15 @@
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.csproj.AssemblyReference.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.AssemblyInfoInputs.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.AssemblyInfo.cs
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.csproj.CoreCompileInputs.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/bin/Debug/net6.0/DataTypeStudio
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/bin/Debug/net6.0/DataTypeStudio.deps.json
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/bin/Debug/net6.0/DataTypeStudio.runtimeconfig.json
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/bin/Debug/net6.0/DataTypeStudio.dll
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/bin/Debug/net6.0/DataTypeStudio.pdb
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.dll
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/refint/DataTypeStudio.dll
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.pdb
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/DataTypeStudio.genruntimeconfig.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/DataTypeStudio/DataTypeStudio/obj/Debug/net6.0/ref/DataTypeStudio.dll
